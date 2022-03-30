@@ -1,8 +1,11 @@
 baseurl = "https://example.com/"
-languageCode = "en"
-title = "Soho Theme"
+
+title = "Lagambanese"
 theme = "soho"
-DefaultContentLanguage = "en"
+
+languageCode = "en"
+DefaultContentLanguage = "it"
+
 enableInlineShortcodes = true
 summarylength = 10
 enableEmoji = true
@@ -10,36 +13,53 @@ paginate = 5
 ignoreErrors = ["error-remote-getjson"]
 
 [params]
-title = "Soho Theme"
-description = "Example Blog"
-# gravatar = "soho@example.com"
-images = ["images/profile.jpg"]
-profilePicture = "images/profile.jpg"
+title = "Lagambanese"
+description = "Football Hattrick Club"
+
+images = ["images/logo.png"]
+profilePicture = "images/logo.png"
+
 copyright = "carmelolg"
 license = "CC BY-SA 4.0"
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+
 builtWith = true
 mainSections = ["post"]
 
 ## Set custom theme color.
-# themeColor = "#fc2803"
 
-  [[params.socialIcons]]
-  icon = "fa-linkedin"
-  title = "Linkedin"
-  url = "#"
 
-  [[params.socialIcons]]
-  icon = "fa-github"
-  title = "GitHub"
-  url = "https://github.com/alexandrevicenzi/soho"
+#1D3557 blu scuro
+#457B9D blu chiaro
+#A8DADC azzurrino
+#F1FAEE grigio chiaro verde
+#E63946 rosso acceso
+#f0a00c giallo   
 
-  [[params.socialIcons]]
-  icon = "fa-twitter"
-  title = "Twitter"
-  url = "#"
+themeColor = "#1D3557"
+
+[[params.socialIcons]]
+icon = "fas fa-futbol"
+title = "Hattrick"
+url = "https://www88.hattrick.org/Club/?TeamID=727740"
+
+#  [[params.socialIcons]]
+#  icon = "fa-github"
+#  title = "GitHub"
+#  url = "https://github.com/alexandrevicenzi/soho"
+
+#  [[params.socialIcons]]
+#  icon = "fa-twitter"
+#  title = "Twitter"
+#  url = "#"
 
 [menu]
+
+  [[menu.main]]
+  name = "Il Club"
+  identifier = "about"
+  weight = 10
+  url = "/about/"
 
   [[menu.main]]
   name = "Posts"
@@ -47,55 +67,10 @@ mainSections = ["post"]
   identifier = "posts"
   url = "/posts/"
 
-  [[menu.main]]
-  name = "Categories"
-  weight = 200
-  identifier = "categories"
-  url = "/categories/"
-
-  [[menu.main]]
-  name = "Tags"
-  weight = 200
-  identifier = "tags"
-  url = "/tags/"
-
-  [[menu.main]]
-  name = "About"
-  identifier = "about"
-  weight = 10
-  url = "/about/"
-
 [taxonomies]
 category = "categories"
 tag = "tags"
 series = "series"
-
-[privacy]
-
-  [privacy.vimeo]
-    disabled = false
-    simple = true
-
-  [privacy.twitter]
-    disabled = false
-    enableDNT = true
-    simple = true
-
-  [privacy.instagram]
-    disabled = false
-    simple = true
-
-  [privacy.youtube]
-    disabled = false
-    privacyEnhanced = true
-
-[services]
-
-  [services.instagram]
-    disableInlineCSS = true
-
-  [services.twitter]
-    disableInlineCSS = true
 
 [markup]
   [markup.goldmark]
