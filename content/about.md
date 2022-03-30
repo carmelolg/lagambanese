@@ -1,25 +1,20 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+title = "Il Club"
+description = ""
+aliases = ["about-us"]
+author = "carmelolg"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Era il **24 Aprile 2007** quando un gruppo di liceali, utilizzando una linea ADSL claudicante, scoprirono il favoloso mondo di [Hattrick.it](www.hattrick.it).
 
-Hugo makes use of a variety of open source projects including:
+È così che nacque la nostra squadra, in una calda primavera calabrese. 
+Con impegno, dedizione e numerose strategie di allenamento, passo dopo passo arrivarono le prime vittorie e i primi trofei.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+A fine 2011 purtroppo, per varie vicissitudini, Lagambanese dichiarò fallimento per poi risorgere 8 mesi dopo come un'araba fenice.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Dal 2012 ad oggi, si costruisce ininterrottamente, partita dopo partita, vittoria dopo vittoria, la via verso la Serie A.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Lagambanese è una storia di continuità, passione e anche gratitudine verso quel gruppo di programmatori svedesi 
+che da 25 anni regalano momenti di svago e di sana competizione a ragazzi e adulti di tutto il mondo in oltre 140 paesi. 
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+**God bless Hattrick**
