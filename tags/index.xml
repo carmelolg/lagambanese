@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Lagambanese</title>
-    <link>https://example.com/tags/</link>
+    <link>https://carmelolg.github.io/lagambanese/tags/</link>
     <description>Recent content in Tags on Lagambanese</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://carmelolg.github.io/lagambanese/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trainiti Beach Club</title>
-      <link>https://example.com/tags/trainiti-beach-club/</link>
+      <link>https://carmelolg.github.io/lagambanese/tags/trainiti-beach-club/</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/trainiti-beach-club/</guid>
+      <guid>https://carmelolg.github.io/lagambanese/tags/trainiti-beach-club/</guid>
       <description></description>
     </item>
     
     <item>
       <title>anniversario</title>
-      <link>https://example.com/tags/anniversario/</link>
+      <link>https://carmelolg.github.io/lagambanese/tags/anniversario/</link>
       <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/anniversario/</guid>
+      <guid>https://carmelolg.github.io/lagambanese/tags/anniversario/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>https://example.com/tags/index/</link>
+      <link>https://carmelolg.github.io/lagambanese/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/index/</guid>
+      <guid>https://carmelolg.github.io/lagambanese/tags/index/</guid>
       <description></description>
     </item>
     

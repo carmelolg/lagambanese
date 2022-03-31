@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lagambanese</title>
-    <link>https://example.com/</link>
+    <link>https://carmelolg.github.io/lagambanese/</link>
     <description>Recent content on Lagambanese</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://carmelolg.github.io/lagambanese/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nasce Trainiti Beach Club</title>
-      <link>https://example.com/post/31_03_2022/</link>
+      <link>https://carmelolg.github.io/lagambanese/post/31_03_2022/</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/31_03_2022/</guid>
+      <guid>https://carmelolg.github.io/lagambanese/post/31_03_2022/</guid>
       <description>Hattrick, per festeggiare i suoi 25 anni, ha creato un nuovo campionato internazionale, dove alcuni utenti sono stati sorteggiati per fondare una seconda squadra.</description>
     </item>
     
     <item>
       <title>15 anni di Lagambanese</title>
-      <link>https://example.com/post/30_03_2022/</link>
+      <link>https://carmelolg.github.io/lagambanese/post/30_03_2022/</link>
       <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/30_03_2022/</guid>
+      <guid>https://carmelolg.github.io/lagambanese/post/30_03_2022/</guid>
       <description>Lagambanese compie 15 anni e questo è il regalo che merita: un sito tutto suo.</description>
     </item>
     
     <item>
       <title>Il Club</title>
-      <link>https://example.com/about/</link>
+      <link>https://carmelolg.github.io/lagambanese/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://carmelolg.github.io/lagambanese/about/</guid>
       <description>Era il 24 Aprile 2007 quando un gruppo di liceali, utilizzando una linea ADSL claudicante, scoprirono il favoloso mondo di Hattrick.</description>
     </item>
     
