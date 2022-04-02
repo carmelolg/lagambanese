@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Albo d&#39;oro on Lagambanese</title>
+    <link>https://carmelolg.github.io/lagambanese/stats/</link>
+    <description>Recent content in Albo d&#39;oro on Lagambanese</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 02 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://carmelolg.github.io/lagambanese/stats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Albo d&#39;oro - Campionato</title>
+      <link>https://carmelolg.github.io/lagambanese/stats/campionato/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://carmelolg.github.io/lagambanese/stats/campionato/</guid>
+      <description>Stagione Posizione Serie Titolo Data Note     32 6° IX.</description>
+    </item>
+    
+    <item>
+      <title>Statistiche</title>
+      <link>https://carmelolg.github.io/lagambanese/stats/stats/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://carmelolg.github.io/lagambanese/stats/stats/</guid>
+      <description>    Serie Partecipazioni Trofei Promozioni     Serie A 0 0 0   II 0 0 0   III 0 0 0   IV 0 0 0   V 0 0 0   VI 17 0 0   VII 14 3 7   VIII 9 2 2   IX 7 1 4   X 3 1 1   XI 0 0 0         Totale 50 7 (14%) 14 (28%)         Coppa Italia 27 0 -    </description>
+    </item>
+    
+  </channel>
+</rss>
