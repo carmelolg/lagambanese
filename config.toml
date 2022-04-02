@@ -18,6 +18,7 @@ description = "Football Hattrick Club"
 
 images = ["images/logo.png"]
 profilePicture = "images/logo.png"
+teamPicture = "images/team.png"
 
 copyright = "carmelolg"
 license = "CC BY-SA 4.0"
