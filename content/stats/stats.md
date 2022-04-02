@@ -1,10 +1,11 @@
 ---
-title: "Statistiche"
+title: "Albo d'oro - Statistiche"
 date: "2022-04-02"
 ---
 
 ---
 
+*Partecipazioni, trofei e promozioni ottenute*
 
 | Serie | Partecipazioni| Trofei | Promozioni | 
 | - | - | - | - | 
@@ -23,3 +24,5 @@ date: "2022-04-02"
 | Totale | 50 | 7 (14%) | 14 (28%) | 
 |  |  |  |  | 
 | Coppa Italia | 27  | 0 | - |
+
+[ Indietro ](../)

@@ -5,6 +5,7 @@ date: "2022-04-02"
 
 ---
 
+*Albo d'oro relativo ai soli campionati*
 
 | Stagione | Posizione | Serie     | Titolo         | Data       | Note             |
 | -------- | --------- | --------- | -------------- | ---------- |----------------- |
@@ -58,3 +59,5 @@ date: "2022-04-02"
 | 79       | 8°         | VI.708    |                |            |                  |
 | 80       | 5°         | VII.524   |                |            |                  |
 | 81       | *in corso* | VII.585   |                |            |                  |
+
+[ Indietro ](../)
