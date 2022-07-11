@@ -58,6 +58,7 @@ date: "2022-04-02"
 | 78       | 2°         | VII.575   | *Promozione*   | 14/08/2021 |                  |
 | 79       | 8°         | VI.708    |                |            |                  |
 | 80       | 5°         | VII.524   |                |            |                  |
-| 81       | *in corso* | VII.585   |                |            |                  |
+| 81       | 2°         | VII.585   | *Promozione*   | 09/07/2022 |                  |
+| 82       | *in corso* | VI.XXX    |                |            |                  |
 
 [ Indietro ](../)
